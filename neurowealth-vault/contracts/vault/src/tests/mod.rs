@@ -99,3 +99,5 @@ mod test_batch_touch_ttl;
 mod test_guardian;
 mod test_share_math_props;
 
+
+mod test_fee_rounding_small_gains;
